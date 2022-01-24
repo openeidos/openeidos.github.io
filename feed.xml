@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-01-24T15:40:19+09:00</updated><id>/feed.xml</id><title type="html">Kumsung Publishing Co.,Ltd Q&amp;amp;A</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">영업지원팀 신입사원 EDI 담당자 교체</title><link href="/jekyll/update/2022/01/21/095000-EDI-jekyll.html" rel="alternate" type="text/html" title="영업지원팀 신입사원 EDI 담당자 교체" /><published>2022-01-21T09:50:00+09:00</published><updated>2022-01-21T09:50:00+09:00</updated><id>/jekyll/update/2022/01/21/095000-EDI-jekyll</id><content type="html" xml:base="/jekyll/update/2022/01/21/095000-EDI-jekyll.html"><![CDATA[<h1 id="영업지원팀-신입사원-edi-담당자-교체">영업지원팀 신입사원 EDI 담당자 교체</h1>
+
+<p><code class="language-plaintext highlighter-rouge">IP : 172.16.20.6</code></p>
+
+<p>고인호씨 방화벽 및 라우터 확인 필요</p>
+
+<p><code class="language-plaintext highlighter-rouge">EDI Gateway : 203.234.227.220</code></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[영업지원팀 신입사원 EDI 담당자 교체]]></summary></entry><entry><title type="html">사업소득 저자분개 김종덕(17000204) 수정</title><link href="/jekyll/update/2022/01/19/160000-Business-income-jekyll.html" rel="alternate" type="text/html" title="사업소득 저자분개 김종덕(17000204) 수정" /><published>2022-01-19T16:00:00+09:00</published><updated>2022-01-19T16:00:00+09:00</updated><id>/jekyll/update/2022/01/19/160000-Business%20income-jekyll</id><content type="html" xml:base="/jekyll/update/2022/01/19/160000-Business-income-jekyll.html"><![CDATA[<h1 id="사업소득자-저자분개-상품-수정">사업소득자 저자분개 상품 수정</h1>
+
+<p><code class="language-plaintext highlighter-rouge">[수정전]</code></p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="mi">2021</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mi">25</span>    <span class="mi">17000204</span>    <span class="err">김종덕</span>    <span class="mi">1</span>    <span class="mi">940100</span>    <span class="mi">20</span><span class="p">,</span><span class="mo">000</span><span class="p">,</span><span class="mo">000</span>    <span class="mi">20</span><span class="p">,</span><span class="mo">000</span><span class="p">,</span><span class="mo">000</span>    
+<span class="err">저자</span> <span class="p">[</span><span class="mi">5500</span><span class="o">-</span><span class="mi">260</span><span class="p">]</span>   <span class="mi">2021</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mo">03</span>    <span class="mi">42</span>    <span class="mo">05</span>    <span class="mi">20210101</span>    <span class="sb">`CL0010B`</span>    <span class="p">(</span><span class="err">실록대하소설</span><span class="p">)</span><span class="err">조선왕조</span>
+<span class="err">√</span>    <span class="mi">20211103</span>    <span class="mi">42</span>    <span class="mi">1</span>    <span class="mo">0513</span>    <span class="o">&lt;</span><span class="err">조선왕조</span><span class="o">&gt;</span> <span class="err">저작권료</span></code></pre></figure>
+
+<p><code class="language-plaintext highlighter-rouge">[수정후]</code></p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="mi">2021</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mi">25</span>    <span class="mi">17000204</span>    <span class="err">김종덕</span>    <span class="mi">1</span>    <span class="mi">940100</span>    <span class="mi">20</span><span class="p">,</span><span class="mo">000</span><span class="p">,</span><span class="mo">000</span>    <span class="mi">20</span><span class="p">,</span><span class="mo">000</span><span class="p">,</span><span class="mo">000</span>    
+<span class="err">저자</span> <span class="p">[</span><span class="mi">5500</span><span class="o">-</span><span class="mi">260</span><span class="p">]</span>   <span class="mi">2021</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mo">03</span>    <span class="mi">42</span>    <span class="mo">05</span>    <span class="mi">20210101</span>    <span class="sb">`265`</span>    <span class="err">실록대하소설</span> <span class="err">조선왕조</span>      
+<span class="err">√</span>    <span class="mi">20211103</span>    <span class="mi">42</span>    <span class="mi">1</span>    <span class="mo">0513</span>    <span class="o">&lt;</span><span class="err">조선왕조</span><span class="o">&gt;</span> <span class="err">저작권료</span></code></pre></figure>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[사업소득자 저자분개 상품 수정]]></summary></entry><entry><title type="html">[그룹웨어]세금계산서 임시 SQL 전환 계획 및 일정관련안</title><link href="/jekyll/update/2022/01/19/140947-Taxbill-jekyll.html" rel="alternate" type="text/html" title="[그룹웨어]세금계산서 임시 SQL 전환 계획 및 일정관련안" /><published>2022-01-19T14:09:47+09:00</published><updated>2022-01-19T14:09:47+09:00</updated><id>/jekyll/update/2022/01/19/140947-Taxbill-jekyll</id><content type="html" xml:base="/jekyll/update/2022/01/19/140947-Taxbill-jekyll.html"><![CDATA[<h1 id="금성출판사세금계산서-수정안---임시-sql-전환-계획-및-일정관련안">[금성출판사]세금계산서 수정안 - 임시 SQL 전환 계획 및 일정관련안</h1>
+
+<p>세금계산서 관련 사항을 어제 전화통화로 자세히 들었습니다.</p>
+
+<p>현재 가장 큰 문제는 오픈 시점에 시간이 부족해서 임시로 사용할 SQL를 요청하셔서 일시적인 도움을 드렸습니다.</p>
+
+<p>그 이후 수 차례 해당 임시 SQL를 전환해야 한다고 메일을 드렸습니다.</p>
+
+<p><code class="language-plaintext highlighter-rouge">그런데 아직 관련된 부분의 전환이 이루어지지 않았습니다.</code></p>
+
+<p>전환과 관련된 사안은 저희쪽 재무회계팀과 몇 차례 통화가 있었던 것으로 알고 있습니다.</p>
+
+<p>더 늦기 전에 해당 안을 처리하셔야 합니다.</p>
+
+<p>기술적으로 도움이 될 만한 부분은 어제 통화로 말씀을 드렸습니다.</p>
+
+<p>더 필요하신 부분은 메일로 요청하시면 관련 정보를 보내드리겠습니다.</p>
+
+<p>현재 임시로 사용 중인 SQL은 필요한 부분이 있다면 자유롭게 수정하시고 활용하셔도 됩니다.</p>
+
+<p>전환 계획 및 일정과 관련된 사항은 재무회계팀 권혁주 팀장님과 협의하시면 됩니다.</p>
+
+<p>참고하실 수 있는 내용들을 첨부했습니다.</p>
+
+<p>PS. 계획 및 일정이 진행되시면 관련사항을 메일로 전달해주시면 좋겠습니다.</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="p">[</span><span class="err">담당자</span><span class="p">]</span>
+
+<span class="mi">1</span><span class="o">.</span> <span class="err">계획</span> <span class="err">및</span> <span class="err">일정과</span> <span class="err">관련된</span> <span class="err">사항</span> <span class="p">:</span> <span class="err">재무회계팀</span> <span class="err">권혁주</span> <span class="err">팀장</span> <span class="p">(</span><span class="mo">02</span><span class="o">-</span><span class="mi">2077</span><span class="o">-</span><span class="mi">8952</span><span class="p">)</span>
+
+<span class="mi">2</span><span class="o">.</span> <span class="err">개발에</span> <span class="err">필요한</span> <span class="err">정보</span> <span class="err">및</span> <span class="err">기술</span> <span class="p">:</span> <span class="err">정보지원팀</span> <span class="err">제병건</span> <span class="err">수석</span> <span class="p">(</span><span class="mo">02</span><span class="o">-</span><span class="mi">2077</span><span class="o">-</span><span class="mi">8032</span><span class="p">)</span></code></pre></figure>
+
+<h1 id="그-동안-저희쪽에서-전환-요청한-메일입니다">그 동안 저희쪽에서 전환 요청한 메일입니다.</h1>
+
+<p><img src="/assets/image/S-2021-11-24.png" alt="email-1" /></p>
+
+<p><img src="/assets/image/S-2021-09-27.png" alt="email-1" /></p>
+
+<p><img src="/assets/image/S-2021-08-31.png" alt="email-1" /></p>
+
+<p><img src="/assets/image/S-2021-07-28.png" alt="email-1" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[[금성출판사]세금계산서 수정안 - 임시 SQL 전환 계획 및 일정관련안]]></summary></entry><entry><title type="html">[그룹웨어]판관비 증빙서철 예외 - 김산욱 이사</title><link href="/jekyll/update/2022/01/18/175747-Expenses-jekyll.html" rel="alternate" type="text/html" title="[그룹웨어]판관비 증빙서철 예외 - 김산욱 이사" /><published>2022-01-18T17:57:47+09:00</published><updated>2022-01-18T17:57:47+09:00</updated><id>/jekyll/update/2022/01/18/175747-Expenses-jekyll</id><content type="html" xml:base="/jekyll/update/2022/01/18/175747-Expenses-jekyll.html"><![CDATA[<h1 id="판관비-증빙서철-양식-지급일자-데이터-관련">판관비 증빙서철 양식 지급일자 데이터 관련</h1>
+
+<p>[본사]</p>
+
+<p>1.GW_A100_TEXPENSE(지출결의서 관리 테이블)의 A100_APPRDATE(지급일자), A100_APPRSABON(지급자사번)에 <code class="language-plaintext highlighter-rouge">그룹웨어</code>에서 NULL 처리</p>
+
+<p>2.GW_A100_TEXPENSE(지출결의서 관리 테이블)의 A100_APPRDATE(지급일자), A100_APPRSABON(지급자사번)에 <code class="language-plaintext highlighter-rouge">MIS</code>에서 업데이트 처리</p>
+
+<p>[지점]</p>
+
+<p>1.GW_A100_TEXPENSE(지출결의서 관리 테이블)의 A100_APPRDATE(지급일자), A100_APPRSABON(지급자사번)에 <code class="language-plaintext highlighter-rouge">그룹웨어</code>에서 업데이트 처리</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="p">[</span><span class="err">예외발생</span><span class="p">]</span>
+<span class="mi">1</span><span class="o">.</span> <span class="err">김산욱</span> <span class="err">이사</span> <span class="o">-</span> <span class="err">본사</span><span class="p">,</span> <span class="err">제주지점</span> <span class="err">동시</span> <span class="err">책임자</span>
+<span class="mi">2</span><span class="o">.</span> <span class="err">그룹웨어</span> <span class="err">로그인시</span> <span class="err">본사</span> <span class="err">책임자</span>
+<span class="mi">3</span><span class="o">.</span> <span class="err">판관비</span> <span class="err">증빙</span> <span class="err">처리시</span> <span class="err">본사</span> <span class="err">소속이므로</span> <span class="err">지급일자</span><span class="p">,</span> <span class="err">지급사번</span> <span class="no">NULL</span> <span class="err">처리</span>       
+<span class="mi">4</span><span class="o">.</span> <span class="err">현재</span> <span class="err">그룹웨어에서</span> <span class="err">처리</span> <span class="err">불가능</span> <span class="o">-</span> <span class="err">본사</span> <span class="err">소속이므로</span> <span class="err">지점처럼</span> <span class="err">지급일자</span><span class="p">,</span> <span class="err">지급사번을</span> <span class="err">처리할</span> <span class="err">수</span> <span class="err">없음</span>
+<span class="mi">5</span><span class="o">.</span> <span class="err">대안</span> <span class="p">:</span> <span class="no">MIS</span> <span class="err">지출결의서</span> <span class="err">확인키</span> <span class="err">프로그램에서</span> <span class="err">지급일자</span><span class="p">,</span> <span class="err">지급사번</span> <span class="err">별도</span><span class="p">(</span><span class="err">예외</span><span class="p">)</span> <span class="err">처리</span> </code></pre></figure>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[판관비 증빙서철 양식 지급일자 데이터 관련 [본사]]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2022/01/18/115747-Welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-01-18T11:57:47+09:00</published><updated>2022-01-18T11:57:47+09:00</updated><id>/jekyll/update/2022/01/18/115747-Welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2022/01/18/115747-Welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>
+
+<h1 id="utf-8">[UTF-8]</h1>
+
+<p><img src="/assets/image/utf8.png" alt="utf8" /></p>
+
+<h1 id="add-image">[ADD IMAGE]</h1>
+
+<ol>
+  <li>Create folder ‘assets’ and ‘Image’</li>
+  <li>Input you’r image into the folder</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;img src="/assets/image/****.png" alt="img_name"&gt;</code></li>
+</ol>
+
+<p><img src="/assets/image/assets-img.png" alt="utf8" /></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
