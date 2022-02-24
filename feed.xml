@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-24T15:25:02+09:00</updated><id>/feed.xml</id><title type="html">Openeidos GitHub Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to openeidos!</title><link href="/openeidos/update/2022/01/18/115747-Welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to openeidos!" /><published>2022-01-18T11:57:47+09:00</published><updated>2022-01-18T11:57:47+09:00</updated><id>/openeidos/update/2022/01/18/115747-Welcome-to-jekyll</id><content type="html" xml:base="/openeidos/update/2022/01/18/115747-Welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-24T15:50:20+09:00</updated><id>/feed.xml</id><title type="html">Openeidos GitHub Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to openeidos!</title><link href="/openeidos/update/2022/01/18/115747-Welcome-to-openeidos.html" rel="alternate" type="text/html" title="Welcome to openeidos!" /><published>2022-01-18T11:57:47+09:00</published><updated>2022-01-18T11:57:47+09:00</updated><id>/openeidos/update/2022/01/18/115747-Welcome-to-openeidos</id><content type="html" xml:base="/openeidos/update/2022/01/18/115747-Welcome-to-openeidos.html"><![CDATA[<p>Welcome to openeidos github website.</p>
+
+<p>This blog will update development articles.</p>
+
+<p>I hope it can be of little help to developers.</p>
+
+<p>Thank you for finding it.</p>
+
+<h1 id="jekyll">[Jekyll]</h1>
+
+<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -28,4 +38,4 @@
   <li><code class="language-plaintext highlighter-rouge">&lt;img src="/assets/image/****.png" alt="img_name"&gt;</code></li>
 </ol>
 
-<p><img src="/assets/image/assets-img.png" alt="utf8" /></p>]]></content><author><name></name></author><category term="openeidos" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p><img src="/assets/image/assets-img.png" alt="utf8" /></p>]]></content><author><name></name></author><category term="openeidos" /><category term="update" /><summary type="html"><![CDATA[Welcome to openeidos github website.]]></summary></entry></feed>
