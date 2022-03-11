@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-03-03T14:27:13+09:00</updated><id>/feed.xml</id><title type="html">Openeidos GitHub Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">JBrowser</title><link href="/openeidos/update/2022/03/03/102311-JBrowser-1th.html" rel="alternate" type="text/html" title="JBrowser" /><published>2022-03-03T10:23:11+09:00</published><updated>2022-03-03T10:23:11+09:00</updated><id>/openeidos/update/2022/03/03/102311-JBrowser-1th</id><content type="html" xml:base="/openeidos/update/2022/03/03/102311-JBrowser-1th.html"><![CDATA[<p>Welcome to JBrowser github website.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-03-11T12:53:48+09:00</updated><id>/feed.xml</id><title type="html">Openeidos GitHub Website</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">JBrowser</title><link href="/openeidos/update/2022/03/03/102311-JBrowser-1th.html" rel="alternate" type="text/html" title="JBrowser" /><published>2022-03-03T10:23:11+09:00</published><updated>2022-03-03T10:23:11+09:00</updated><id>/openeidos/update/2022/03/03/102311-JBrowser-1th</id><content type="html" xml:base="/openeidos/update/2022/03/03/102311-JBrowser-1th.html"><![CDATA[<p>Welcome to JBrowser github website.</p>
 
 <p>The JBrowser is a browser for developers.</p>
 
@@ -59,4 +59,11 @@
   <li><code class="language-plaintext highlighter-rouge">&lt;img src="/assets/image/****.png" alt="img_name"&gt;</code></li>
 </ol>
 
-<p><img src="/assets/image/assets-img.png" alt="utf8" /></p>]]></content><author><name></name></author><category term="openeidos" /><category term="update" /><summary type="html"><![CDATA[Welcome to openeidos github website.]]></summary></entry></feed>
+<p><img src="/assets/image/assets-img.png" alt="utf8" /></p>
+
+<h1 id="input-space">[INPUT SPACE]</h1>
+
+<ol>
+  <li>Use the blank special characters in parentheses.</li>
+  <li>(　) - Use the blank special characters</li>
+</ol>]]></content><author><name></name></author><category term="openeidos" /><category term="update" /><summary type="html"><![CDATA[Welcome to openeidos github website.]]></summary></entry></feed>
